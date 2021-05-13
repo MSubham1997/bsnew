@@ -1,0 +1,2 @@
+# bsnew
+A test repository
